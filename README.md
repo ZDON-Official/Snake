@@ -1,2 +1,2 @@
 # Snake
-this is an implementation of the snake game in python using Tkinter GUI toolkit
+This is an implementation of the snake game in python using Tkinter GUI toolkit.
